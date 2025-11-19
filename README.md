@@ -10,10 +10,7 @@ perfectは機能統合版 [使いにくい!]<br>
 searchは辞書アプリ [まだ使える!]{<br>
 register.pyとsort.py使ってね。<br>
 }
+改造する際は、[https://github.com/daidai-09/original_dictionary_maker_jp]これ貼って！
 
-
-{[11/19]
-DicCoder       : jsonの書き出し！
-DicSearcher    : jsonの読み取り！
-appはこれ使うとよい！！！！！！！
-}
+{[11/19]DicCoder       : jsonの書き出し！DicSearcher    : jsonの読み取り！appはこれ使うとよい！！！！！！！}<br>
+{[11/19]TLWRv1.0の公開！これは使いにくい手紙エディタ！}<br>
