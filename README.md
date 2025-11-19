@@ -14,6 +14,6 @@ register.pyとsort.py使ってね。<br>
 
 {[11/19]
 DicCoder       : jsonの書き出し！
-Dicsearcher    : jsonの読み取り！
+DicSearcher    : jsonの読み取り！
 appはこれ使うとよい！！！！！！！
 }
