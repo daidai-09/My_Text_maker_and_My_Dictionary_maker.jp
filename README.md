@@ -14,3 +14,6 @@ register.pyとsort.py使ってね。<br>
 
 {[11/19]DicCoder       : jsonの書き出し！DicSearcher    : jsonの読み取り！appはこれ使うとよい！！！！！！！}<br>
 {[11/19]TLWRv1.0の公開！これは使いにくい手紙エディタ！}<br>
+
+{[2026/01/29]更新をストップします。}次のプロジェクト↓
+https://github.com/daidai-09/Re_Dictionary_searcher
